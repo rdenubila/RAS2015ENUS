@@ -29,7 +29,7 @@ function checkReady(){
 
 	}
 
-	//init();
+	init();
 
 }
 
