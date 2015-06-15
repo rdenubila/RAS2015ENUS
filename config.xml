@@ -2,8 +2,8 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "br.cemig.ras_2104_en"
-        versionCode = "1" 
-        version     = "1.0" >
+        versionCode = "2" 
+        version     = "1.1" >
 
 
     <name>ASR Cemig</name>
